@@ -1,7 +1,8 @@
 {
   "heders": {
     "/*": {
-      "X-Author": "anastasiaelitvinova"
+      "X-Author": "anastasiaelitvinova",
+      "Access-Control-Allow-Origin": "*"
       }
-}
+  }
 }
